@@ -85,7 +85,7 @@ Smart-Home-Manager
 
 ## Video Walkthroughs
 
-- *Project-Feature Overview*: https://drive.google.com/file/d/1e3_CD80ZYo1M5nrTh9ijCiyWgwaaqPxj/view?usp=sharing
+- *Project-Feature Overview*: [https://youtu.be/fzWc2RQN0Bc](https://youtu.be/fzWc2RQN0Bc)
 
 - *Codebase Overview*: https://drive.google.com/file/d/1zc_QC_V5o_VnVLoQJ13Ub6FG3739jGhf/view?usp=sharing
 
